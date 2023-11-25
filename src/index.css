@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main{
+  background-color: yellowgreen;
+  height: 100vh;
+  position: relative;
+}
+
+.image-area {
+  position: absolute;
+  width:40px;
+        height:40px;
+          position: absolute;
+}
